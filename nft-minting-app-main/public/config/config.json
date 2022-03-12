@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5622D3160aaD19fbfbA5771811e35366cC451A80",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5622d3160aad19fbfba5771811e35366cc451a80",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Work of Art Collection",
+  "SYMBOL": "WOANFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-work-of-art-collection",
+  "SHOW_BACKGROUND": true
+}
